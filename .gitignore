@@ -1,0 +1,6 @@
+# build output and local files
+out/
+cls/
+release/
+local.keystore
+*.idsig

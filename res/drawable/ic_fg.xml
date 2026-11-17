@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- a phone: coral bezel, black margin ring, the shrunken picture inside -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:pathData="M42,23 h24 a9,9 0 0 1 9,9 v44 a9,9 0 0 1 -9,9 h-24 a9,9 0 0 1 -9,-9 v-44 a9,9 0 0 1 9,-9 z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear"
+                android:startX="33" android:startY="23" android:endX="75" android:endY="85">
+                <item android:offset="0" android:color="#FFFF9A5B" />
+                <item android:offset="1" android:color="#FFFF4F86" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <path android:fillColor="#FF080A12"
+        android:pathData="M43,27 h22 a6,6 0 0 1 6,6 v42 a6,6 0 0 1 -6,6 h-22 a6,6 0 0 1 -6,-6 v-42 a6,6 0 0 1 6,-6 z" />
+    <path android:pathData="M45,32 h18 a3,3 0 0 1 3,3 v38 a3,3 0 0 1 -3,3 h-18 a3,3 0 0 1 -3,-3 v-38 a3,3 0 0 1 3,-3 z">
+        <aapt:attr name="android:fillColor">
+            <gradient android:type="linear"
+                android:startX="42" android:startY="32" android:endX="66" android:endY="76">
+                <item android:offset="0" android:color="#FF7CF2DD" />
+                <item android:offset="1" android:color="#FF3CB9D6" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
